@@ -1,4 +1,4 @@
-const lib = require('../lib')
+const lib = require('../../lib')
 
 const username1 = "john_doe";
 const username2 = "JoHN_Doe123";

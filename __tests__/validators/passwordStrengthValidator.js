@@ -1,4 +1,4 @@
-const lib = require('../lib')
+const lib = require('../../lib')
 
 const password1 = "StrongP@ssw0rd";
 const password2 = "Weak123";
