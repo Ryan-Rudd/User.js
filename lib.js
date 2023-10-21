@@ -5,3 +5,4 @@ const validators =
     email: emailValidator
 }
 
+module.exports = {validators}
